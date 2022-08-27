@@ -3,7 +3,7 @@ on:
   # When Release Pull Request is merged
   push:
     branches:
-      - lerna-build
+      - master
     #types: [closed]
 
 permissions:
