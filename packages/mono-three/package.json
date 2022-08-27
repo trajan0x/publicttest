@@ -2,13 +2,13 @@
   "name": "@trajan0x/mono-three",
   "version": "2.1.5",
   "description": "",
-  "homepage": "https://github.com/trajan0x/publicttest/tree/master/packages/mono-three/",
+  "homepage": "https://github.com/azu/lerna-monorepo-github-actions-release/tree/master/packages/mono-three/",
   "bugs": {
-    "url": "https://github.com/trajan0x/publicttest/issues"
+    "url": "https://github.com/azu/lerna-monorepo-github-actions-release/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trajan0x/publicttest.git",
+    "url": "https://github.com/azu/lerna-monorepo-github-actions-release.git",
     "directory": "packages/mono-three"
   },
   "license": "MIT",
