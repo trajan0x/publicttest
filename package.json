@@ -3,13 +3,13 @@
   "name": "root",
   "version": "1.0.0",
   "description": "Root",
-  "homepage": "https://github.com/azu/lerna-monorepo-github-actions-release",
+  "homepage": "https://github.com/trajan0x/publicttest",
   "bugs": {
-    "url": "https://github.com/azu/lerna-monorepo-github-actions-release/issues"
+    "url": "https://github.com/trajan0x/publicttest/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/azu/lerna-monorepo-github-actions-release.git"
+    "url": "https://github.com/trajan0x/publicttest.git"
   },
   "license": "MIT",
   "author": "azu",

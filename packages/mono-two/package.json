@@ -2,13 +2,13 @@
   "name": "@trajan0x/mono-two",
   "version": "2.1.5",
   "description": "",
-  "homepage": "https://github.com/azu/lerna-monorepo-github-actions-release/tree/master/packages/mono-two/",
+  "homepage": "https://github.com/trajan0x/publicttest/tree/master/packages/mono-two/",
   "bugs": {
-    "url": "https://github.com/azu/lerna-monorepo-github-actions-release/issues"
+    "url": "https://github.com/trajan0x/publicttest/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/azu/lerna-monorepo-github-actions-release.git",
+    "url": "https://github.com/trajan0x/publicttest.git",
     "directory": "packages/mono-two"
   },
   "license": "MIT",
